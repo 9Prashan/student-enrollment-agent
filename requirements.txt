@@ -1,4 +1,3 @@
-python
 langgraph
 langchain-google-genai
 python-dotenv
